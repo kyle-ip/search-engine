@@ -44,3 +44,8 @@ http.cors.allow-headers: "X-Requested-With, Content-Type, Content-Length, X-User
 ## 运行效果
  ![Alt text](https://github.com/yipwinghong/SearchEngine/blob/master/Screenshots/3.jpg)
  ![Alt text](https://github.com/yipwinghong/SearchEngine/blob/master/Screenshots/4.jpg)
+
+ 
+ 
+ 
+具体教程见慕课网《Python分布式爬虫打造搜索引擎 Scrapy精讲》
