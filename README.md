@@ -48,4 +48,5 @@ http.cors.allow-headers: "X-Requested-With, Content-Type, Content-Length, X-User
  
  
  
-具体教程见慕课网《Python分布式爬虫打造搜索引擎 Scrapy精讲》
+具体教程见慕课网《Python分布式爬虫打造搜索引擎 Scrapy精讲》。
+ 
