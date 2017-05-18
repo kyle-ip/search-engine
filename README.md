@@ -6,7 +6,7 @@
 在项目中查询结果分页的逻辑已改用模板语言控制。
  
 ## 运行效果
-[![test](https://github.com/yipwinghong/SearchEngine/blob/master/Screenshots/3.jpg)](http://v.youku.com/v_show/id_XMjc3MTk4ODc5Mg==.html?spm=a2hzp.8253869.0.0#paction)
+![SearchEngine](https://github.com/yipwinghong/SearchEngine/blob/master/Screenshots/SearchEngine.gif)
  
 ## 开发环境
 环境 | 版本
