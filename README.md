@@ -1,10 +1,9 @@
 # SearchEngine
- 
- 上接爬虫项目FirstSpider：https://github.com/yipwinghong/FirstSpider
+上接爬虫项目[FirstSpider](https://github.com/yipwinghong/FirstSpider)
  
- 爬取伯乐在线、知乎和拉勾网的信息，把数据写入ElasticSearch后，使用Django实现搜索网站的搭建。
+爬取伯乐在线、知乎和拉勾网的信息，把数据写入ElasticSearch后，使用Django实现搜索网站的搭建。
  
- 在项目中查询结果分页的逻辑已改用模板语言控制。
+在项目中查询结果分页的逻辑已改用模板语言控制。
  
  
  
@@ -44,9 +43,4 @@ http.cors.allow-headers: "X-Requested-With, Content-Type, Content-Length, X-User
 
  ![Alt text](https://github.com/yipwinghong/SearchEngine/blob/master/Screenshots/3.jpg)
  ![Alt text](https://github.com/yipwinghong/SearchEngine/blob/master/Screenshots/4.jpg)
-
- 
- 
- 
-具体教程见慕课网《Python分布式爬虫打造搜索引擎 Scrapy精讲》。
  
