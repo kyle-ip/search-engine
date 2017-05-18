@@ -6,7 +6,7 @@
 在项目中查询结果分页的逻辑已改用模板语言控制。
  
 ## 运行效果
-![SearchEngine](https://github.com/yipwinghong/SearchEngine/blob/master/Screenshots/SearchEngine.gif)
+![SearchEngine](http://ooaovpott.bkt.clouddn.com/SearchEngine_GIF.gif)
  
 ## 开发环境
 环境 | 版本
