@@ -6,7 +6,7 @@
 在项目中查询结果分页的逻辑已改用模板语言控制。
  
 ## 运行效果
-  <iframe height=498 width=510 src='http://player.youku.com/embed/XMjc3MTk4ODc5Mg==' frameborder=0 'allowfullscreen'> </iframe>
+[![test](https://github.com/yipwinghong/SearchEngine/blob/master/Screenshots/3.jpg)](http://v.youku.com/v_show/id_XMjc3MTk4ODc5Mg==.html?spm=a2hzp.8253869.0.0#paction)
  
 ## 开发环境
 环境 | 版本
