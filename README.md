@@ -5,7 +5,8 @@
  
 在项目中查询结果分页的逻辑已改用模板语言控制。
  
- 
+## 运行效果
+ [![SearchEngine](https://github.com/yipwinghong/SearchEngine/blob/master/Screenshots/3.jpg)](http://ooaovpott.bkt.clouddn.com/SearchEngine.wmv)
  
 ## 开发环境
 环境 | 版本
@@ -37,10 +38,3 @@ http.cors.allow-headers: "X-Requested-With, Content-Type, Content-Length, X-User
  4、项目目录下运行：<pre><code>python manage.py runserver</code></pre>
 
  5、浏览器下访问：<pre><code>127.0.0.1:8000</code></pre>
-
-
-## 运行效果
-
- ![Alt text](https://github.com/yipwinghong/SearchEngine/blob/master/Screenshots/3.jpg)
- ![Alt text](https://github.com/yipwinghong/SearchEngine/blob/master/Screenshots/4.jpg)
- 
