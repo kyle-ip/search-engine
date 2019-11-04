@@ -84,7 +84,7 @@ stevedore==1.21.0
 testpath==0.3
 tornado==4.4.3
 traitlets==4.3.2
-Twisted==17.1.0
+Twisted==19.7.0
 urllib3==1.21
 virtualenv==15.1.0
 virtualenv-clone==0.2.6
