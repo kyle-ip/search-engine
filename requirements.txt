@@ -4,7 +4,7 @@ Automat==0.5.0
 backports-abc==0.5
 backports.shutil-get-terminal-size==1.0.0
 beautifulsoup4==4.5.3
-bleach==3.1.2
+bleach==3.1.4
 certifi==2017.1.23
 cffi==1.10.0
 charts==0.4.6
