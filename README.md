@@ -6,7 +6,7 @@
 在项目中查询结果分页的逻辑已改用模板语言控制。
  
 ## 运行效果
-![SearchEngine](https://github.com/yipwinghong/SearchEngine/blob/master/Screenshots/SearchEngine.gif)
+![SearchEngine](https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/SearchEngine-1.gif)
  
 ## 开发环境
 环境 | 版本
@@ -26,8 +26,8 @@ IDE | PyCharm 2017.1 x64
 
 3、使用FirstSpider的爬虫爬取数据并写入ES，数据管理可以使用Elasticsearch-head（具体使用方法见官方文档）：      
 
-![Alt text](https://github.com/yipwinghong/SearchEngine/blob/master/Screenshots/1.jpg)
-![Alt text](https://github.com/yipwinghong/SearchEngine/blob/master/Screenshots/2.jpg)
+![Alt text](https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/SearchEngine.jpg)
+![Alt text](https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/SearchEngine2.jpg)
  
 4、项目目录下运行：<pre><code>python manage.py runserver</code></pre>
 
