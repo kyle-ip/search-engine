@@ -1,5 +1,5 @@
-# SearchEngine
-上接爬虫项目 [FirstSpider](https://github.com/yipwinghong/FirstSpider)：采集伯乐在线、知乎和拉勾网的数据，使用Django实现搜索网站的搭建，利用开源搜索引擎ElasticSearch完成高级搜索任务。
+# search-engine
+上接爬虫项目 [first-spider](https://github.com/yipwinghong/FirstSpider)：采集伯乐在线、知乎和拉勾网的数据，使用 Django 实现搜索网站的搭建，利用开源搜索引擎 ElasticSearch 完成高级搜索任务。
 
 搜索推荐：基于 AJAX Jquery 完成前后端交互。     
 
