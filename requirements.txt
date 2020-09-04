@@ -15,7 +15,7 @@ cryptography==1.8.1
 cssselect==1.0.1
 cycler==0.10.0
 decorator==4.0.11
-Django==1.11.28
+Django==1.11.29
 elasticsearch==5.3.0
 elasticsearch-dsl==5.2.0
 entrypoints==0.2.2
@@ -53,7 +53,7 @@ parsel==1.1.0
 pathlib2==2.2.1
 pbr==3.0.0
 pickleshare==0.7.4
-Pillow==6.2.0
+Pillow==7.1.0
 post==0.0.0
 prompt-toolkit==1.0.14
 public==0.0.0
@@ -84,7 +84,7 @@ stevedore==1.21.0
 testpath==0.3
 tornado==4.4.3
 traitlets==4.3.2
-Twisted==19.7.0
+Twisted==20.3.0
 urllib3==1.24.2
 virtualenv==15.1.0
 virtualenv-clone==0.2.6
