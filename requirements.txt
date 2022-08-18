@@ -45,7 +45,7 @@ mongoengine==0.13.0
 nbconvert==6.3.0
 nbformat==4.3.0
 notebook==6.4.10
-numpy==1.21.0
+numpy==1.22.0
 olefile==0.44
 packaging==16.8
 pandocfilters==1.4.1
