@@ -42,7 +42,7 @@ MarkupSafe==1.0
 matplotlib==2.0.0
 mistune==2.0.3
 mongoengine==0.13.0
-nbconvert==6.3.0
+nbconvert==6.5.1
 nbformat==4.3.0
 notebook==6.4.12
 numpy==1.22.0
