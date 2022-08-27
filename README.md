@@ -15,6 +15,8 @@
 -   Python 3.5+
 -   Elasticsearch 5.1+
 
+import exemple data set:  https://github.com/yipwinghong/first-spider
+
 ## License
 
 See LICENSE file.
