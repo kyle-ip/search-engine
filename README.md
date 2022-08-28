@@ -4,6 +4,8 @@
 
 ## Introduction
 
+A search engine demo implemented in Python and Elasticsearch.
+
 ![SearchEngine](https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/SearchEngine-1.gif)
 
 ![Alt text](https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/SearchEngine.jpg)
