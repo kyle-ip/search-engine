@@ -8,10 +8,6 @@ A search engine demo implemented in Python and Elasticsearch.
 
 ![SearchEngine](https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/SearchEngine-1.gif)
 
-![Alt text](https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/SearchEngine.jpg)
-
-![Alt text](https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/SearchEngine-2.jpg)
-
 ## Dependencies
 
 -   Python 3.5+
