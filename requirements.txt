@@ -36,7 +36,7 @@ jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.0.1
 jupyter-console==5.1.0
-jupyter-core==4.3.0
+jupyter-core==4.11.2
 lxml==4.9.1
 MarkupSafe==1.0
 matplotlib==2.0.0
