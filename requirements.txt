@@ -1,4 +1,4 @@
-﻿asn1crypto==0.22.0
+asn1crypto==0.22.0
 attrs==16.3.0
 Automat==0.5.0
 backports-abc==0.5
@@ -72,7 +72,7 @@ qtconsole==4.3.0
 query-string==0.0.0
 queuelib==1.4.2
 request==0.0.0
-requests==2.20.0
+requests==2.31.0
 scandir==1.5
 Scrapy==2.6.2
 service-identity==16.0.0
