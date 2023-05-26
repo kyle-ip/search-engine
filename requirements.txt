@@ -1,4 +1,4 @@
-﻿asn1crypto==0.22.0
+asn1crypto==0.22.0
 attrs==16.3.0
 Automat==0.5.0
 backports-abc==0.5
@@ -82,7 +82,7 @@ singledispatch==3.4.0.3
 six==1.10.0
 stevedore==1.21.0
 testpath==0.3
-tornado==4.4.3
+tornado==6.3.2
 traitlets==4.3.2
 Twisted==22.4.0
 urllib3==1.26.5
